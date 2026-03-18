@@ -1,4 +1,4 @@
-# Sean'ss PAA Viewer and Converter
+# Sean's PAA Viewer and Converter
 
 A texture viewer and converter for DayZ modding. Basically what Bohemia's Tex View should have been.
 
