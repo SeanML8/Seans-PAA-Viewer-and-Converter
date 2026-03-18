@@ -36,15 +36,6 @@ Grab `Seans PAA Viewer and Converter.exe` from the [Releases](../../releases) pa
 - **Windows 10/11**
 - **DayZ Tools** (free on Steam under `Library > Tools > DayZ Tools`) for PAA conversion. Auto-detected, or you'll be prompted to install it.
 
-## Building from Source
-
-```
-pip install Pillow pyinstaller
-pyinstaller --onefile --windowed --name "Seans PAA Viewer and Converter" paa_viewer.py
-```
-
-Output goes to the `dist/` folder.
-
 ## License
 
 MIT
