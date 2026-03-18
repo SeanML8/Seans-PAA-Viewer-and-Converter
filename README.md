@@ -1,4 +1,4 @@
-# DayZ PAA Viewer
+# Seans PAA Viewer and Converter
 
 A texture viewer and converter for DayZ modding. Basically what Bohemia's Tex View should have been.
 
@@ -17,11 +17,11 @@ Tex View is clunky and outdated. This is a simple, modern alternative that just 
 
 ## Download
 
-Grab `DayZ PAA Viewer.exe` from the [Releases](../../releases) page.
+Grab `Seans PAA Viewer and Converter.exe` from the [Releases](../../releases) page.
 
 ## Usage
 
-1. Run `DayZ PAA Viewer.exe`
+1. Run `Seans PAA Viewer and Converter.exe`
 2. Open a file or folder
 3. Arrow keys to browse, scroll to zoom, drag to pan
 4. Convert between PAA and PNG as needed
@@ -40,7 +40,7 @@ Grab `DayZ PAA Viewer.exe` from the [Releases](../../releases) page.
 
 ```
 pip install Pillow pyinstaller
-pyinstaller --onefile --windowed --name "DayZ PAA Viewer" paa_viewer.py
+pyinstaller --onefile --windowed --name "Seans PAA Viewer and Converter" paa_viewer.py
 ```
 
 Output goes to the `dist/` folder.

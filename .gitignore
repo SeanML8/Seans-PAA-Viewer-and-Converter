@@ -1,14 +1,13 @@
 # Source (distributed via releases only)
 *.py
+*.spec
 
 # Build artifacts
 build/
 dist/
 __pycache__/
 *.pyc
-
-# PyInstaller
-*.spec
+*.exe
 
 # IDE
 .vscode/
