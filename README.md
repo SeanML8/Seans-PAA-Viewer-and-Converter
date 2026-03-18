@@ -48,5 +48,3 @@ Output goes to the `dist/` folder.
 ## License
 
 MIT
-
-*Built with <3 by Sean*
